@@ -1,6 +1,6 @@
 # Cervical_CGC2023
 
-This repository contains code to perform the analyses in the abstract:
+This repository contains code to perform the analysis in the abstract:
 > **Exploring CXCL8, COL5A2, and EPHX2 as Potential Biomarkers for Poor Prognosis in Cervical Squamous Epithelial Cancer**
 >
 > Fatemeh Hedayat, Arash B. Abadi, Saeid Latifi-Navid.
